@@ -1,0 +1,16 @@
+# File Information Page
+
+## File Path
+`/web base pos/image/info.txt`
+
+## Description
+This file is intended to store information related to images used in the web-based POS system.
+
+## Contents
+(Currently, the file is empty. You can add relevant information about the images here.)
+
+## Usage
+- Store metadata about images such as filenames, dimensions, formats, etc.
+- Keep track of image-related notes or descriptions.
+
+## Example Entry
