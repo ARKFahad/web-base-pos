@@ -1,0 +1,13 @@
+# File Information
+
+**File Path:** `web base pos/css/info.txt`
+
+**Description:**
+This file is currently empty and can be used to store information related to the CSS (Cascading Style Sheets) for the web-based POS (Point of Sale) system. You can use this file to document styles, classes, and other CSS-related information that will be used in your project.
+
+**Usage:**
+- Document styles and classes used in the project.
+- Store notes and comments about the CSS implementation.
+- Keep track of changes and updates to the CSS.
+
+**Example Content:**
