@@ -1,0 +1,16 @@
+# Info Page for Icon File
+
+## File Details
+- **File Name:** info.txt
+- **Location:** /c:/Users/arkfa/OneDrive/Documents/web base pos/icon/
+
+## Description
+This file contains information about the icon used in the web-based POS system.
+
+## Icon Usage
+- **Application:** Web-based POS system
+- **Purpose:** To provide visual representation for specific actions or statuses within the application.
+
+## Additional Notes
+- Ensure the icon is properly referenced in the application code.
+- Update this file with any changes to the icon or its usage.
