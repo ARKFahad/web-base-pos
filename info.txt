@@ -1,4 +1,21 @@
-File Name: info.txt
-Location: /c:/Users/arkfa/OneDrive/Documents/web base pos/
-File Type: Text File
-Description: This is an empty text file intended for storing information related to the web-based POS (Point of Sale) system.
+# File Information Page
+
+## File Path
+`/c:/Users/arkfa/OneDrive/Documents/web base pos/info.txt`
+
+## Description
+This file is intended to store information related to the web-based POS (Point of Sale) system.
+
+## Contents
+- [Section 1: Overview](#section-1-overview)
+- [Section 2: Details](#section-2-details)
+- [Section 3: Notes](#section-3-notes)
+
+## Section 1: Overview
+Provide a brief overview of the purpose and contents of this file.
+
+## Section 2: Details
+Include detailed information about the contents of the file, such as data structure, format, and any relevant details.
+
+## Section 3: Notes
+Add any additional notes or comments about the file.
