@@ -10,5 +10,12 @@ background: -webkit-linear-gradient(0deg, hsla(213, 77%, 14%, 1) 10%, hsla(202, 
 filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#08203e", endColorstr="#557c93", GradientType=1 );
 }
 .un{
-    
+    width: 20%;
+    height: 5%;
+    margin-bottom: 5px;
+}
+.ps{
+    width: 20%;
+    height: 5%;
+    margin-bottom: 5px;
 }
