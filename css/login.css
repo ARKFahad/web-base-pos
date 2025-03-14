@@ -6,27 +6,27 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-  }
-  
-  .login_container {
+}
+
+.login_container {
     margin-top: 100px;
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-  }
-  
-  .image-container {
+}
+
+.image-container {
     width: 34%;
-  }
-  
-  img {
+}
+
+img {
     width: 100%;
     height: auto;
-  }
-  
-  .glossy-box {
+}
+
+.glossy-box {
     width: 80%;
     padding: 10px;
     margin: 10px 0;
@@ -38,26 +38,26 @@ body {
     color: white;
     font-size: 16px;
     text-align: center;
-  }
-  .button-group {
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
-  }
-  button {
+}
+button {
     width: 40%;
     padding: 8px;
     margin: 5px;
     font-size: 14px;
     cursor: pointer;
-  }
-  
-  .login-button {
+}
+
+.login-button {
     background-color: rgba(0, 123, 255, 0.8); /* Blue shade */
     border: 1px solid rgba(0, 123, 255, 0.3);
-  }
-  
-  .register-button {
+}
+
+.register-button {
     background-color: rgba(40, 167, 69, 0.8); /* Green shade */
     border: 1px solid rgba(40, 167, 69, 0.3);
-  }
+}
+.or {
+    color: white;
+    font-size: 14px;
+    margin: 5px;
+}
