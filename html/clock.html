@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Digital Clock</title>
+    <style>
+        .clock {
+            text-align: center;
+            width: 300px;
+            margin: 50px auto;
+        }
+
+        .clock span {
+            font-size: 240pt;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="clock"></div>
+    <script>
+        var now = new Date();
+
+        function formatTime(time) {
+            var hours = (time.getHours() % 12 + 1) % 12 || 12;
+            var minutes = time.getMinutes();
+            var seconds = time.getSeconds();
+
+            return hours + ":" + minutes + ":" + seconds;
+        }
+
+        setInterval(function(){
+            now = new Date();
+
+            document.querySelector('.clock').innerHTML = formatTime(now);
+        },1000)
+    </script>
+</body>
+</html>
