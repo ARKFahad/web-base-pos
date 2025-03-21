@@ -1,0 +1,38 @@
+
+body
+{
+        background-color: #b8c7bb;
+}
+.hr-solid-black
+{
+        border: none;
+        width: 97%;
+        height: 2px; 
+        background: #404a42;
+}
+.hr-big-dot
+{
+        border: none;
+        width: 20%;
+        border-top-style: dashed;
+        border-top-width: 5px;
+        height: 6px; 
+        border-color: #404a42;
+}
+#hedding
+{
+        color:black
+}
+.hero-img
+{
+        width: 200px;
+        height: 200px;
+}
+.hero-img:hover
+{
+    box-shadow: #404a42;
+}
+.one
+{
+        background-color: white;
+}
